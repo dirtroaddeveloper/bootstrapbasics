@@ -1,3 +1,4 @@
+# Steps
 Added the navbar
 Added the images one full the other round-circle
 Added the table
